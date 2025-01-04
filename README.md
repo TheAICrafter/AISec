@@ -4,7 +4,7 @@ Welcome to the repository for **AISec(temp name)**, an innovative and energy-eff
 A simplied version of the network architecture can be found here:
 
 
-![Network Architecture](docs/diagrams/Simplified_Network_Architecture_.png)
+![Network Architecture](docs/Simplified_Network_Architecture_.png)
 
 
 ---
