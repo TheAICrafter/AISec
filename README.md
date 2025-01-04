@@ -1,11 +1,6 @@
 # AISec
 Welcome to the repository for **AISec(temp name)**, an innovative and energy-efficient home security system powered by cutting-edge AI technologies. This project combines advanced machine learning models, edge computing, and local data processing to create a smart, private, and highly effective security solution.
 
----
-
-## Key Features
-
-### 1. **Advanced Network Segmentation**
 
 ---
 
