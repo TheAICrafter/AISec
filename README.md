@@ -57,33 +57,6 @@ Welcome to the repository for **AISec(temp name)**, an innovative and energy-eff
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- A Jetson Orin and a Coral Accelerator.
-- Raspberry Pi 4 Model B (x2).
-- A network router supporting VLANs.
-- Cameras compatible with RTSP streaming.
-- Python 3.8+.
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TheAICrafter/EyeQ.git
-   cd EyeQ
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure network segmentation according to the [network setup guide](docs/network_setup.md).
-4. Deploy the models and test the system:
-   ```bash
-   python main.py
-   ```
-
----
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue. Note that sensitive system components and proprietary configurations will not be shared to maintain security and integrity.
